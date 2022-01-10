@@ -150,7 +150,7 @@
     display: none;
 }
 .slicknav_menu {
-    background: transparent;
+    background: white;
     margin-top: 10px;
 }
 .slicknav_menu .slicknav_icon-bar {
@@ -192,7 +192,7 @@
   padding: 0;
 }
 .slicknav_icon-bar {
-    background: #fff !important;
+    background: #000 !important;
 }
 .slicknav_nav {
 	background: #fff;
